@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fake-useragent": "^1.0.1",
+    "header-generator": "^2.1.27",
+    "randomstring": "^1.2.3",
+    "request": "^2.88.2",
+    "user-agents": "^1.0.1383"
+  }
+}
